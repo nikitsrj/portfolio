@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Nikit Swaraj </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  
+  <br>   
+  I am a Cloud Architect. This is demo portfolio for demo purposes.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
